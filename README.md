@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there!
 
-<!--
-**sullis/sullis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭  I am currently working on finding my next gig.
+- 💬  Ask me about Java, Netty, and the Portland Java User Group
+- ⚡   Fun fact: I live in Portland Oregon
 
-Here are some ideas to get you started:
+[![Twitter follow @tinyrobots](https://img.shields.io/twitter/follow/tinyrobots?style=social)](https://twitter.com/sullis) &nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+<a href="https://github.com/sullis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullis&theme=light&count_private=true" alt="Sean's most used languages" /></a>
+
+
+### My GitHub Stats
+
+<a href="https://github.com/sullis">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sullis&show_icons=true&theme=light&line_height=27" alt="Sean's GitHub stats"/></a>
