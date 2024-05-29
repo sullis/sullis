@@ -7,6 +7,12 @@
 
 [![Twitter follow @tinyrobots](https://img.shields.io/twitter/follow/tinyrobots?style=social)](https://twitter.com/sullis) &nbsp;
 
+### Projects that I maintain
+
+- [netty-leak-detector-junit-extension](https://github.com/nettyplus/netty-leak-detector-junit-extension)
+- [mockitoplus](https://github.com/mockitoplus/mockitoplus)
+- [jms-testkit](https://github.com/sullis/jms-testkit)
+
 ### Languages and Tools
 
 <a href="https://github.com/sullis">
