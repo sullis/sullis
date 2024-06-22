@@ -10,6 +10,7 @@
 ### Open source projects that I maintain
 
 - [netty-leak-detector-junit-extension](https://github.com/nettyplus/netty-leak-detector-junit-extension)
+- [netty4-transports](https://github.com/nettyplus/netty4-transports)
 - [mockitoplus](https://github.com/mockitoplus/mockitoplus)
 - [jms-testkit](https://github.com/sullis/jms-testkit)
 
