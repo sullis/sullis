@@ -1,6 +1,5 @@
 ## Hi there!
 
-- 🔭  I am currently working on finding my next gig.
 - 💬  Ask me about Java, Netty, and the Portland Java User Group
 - 🍷  I am a contributor to the Apache Pinot project
 - ⚡  Fun fact: I live in Portland Oregon
