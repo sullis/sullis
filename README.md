@@ -4,7 +4,7 @@
 - 🍷  I am a contributor to the Apache Pinot project
 - ⚡  Fun fact: I live in Portland Oregon
 
-[![Twitter follow @tinyrobots](https://img.shields.io/twitter/follow/tinyrobots?style=social)](https://twitter.com/sullis) &nbsp;
+[![BlueSky follow @tinyrobots](https://bsky.app/profile/tinyrobots.bsky.social) &nbsp;
 
 ### Open source projects that I maintain
 
