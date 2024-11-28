@@ -1,6 +1,6 @@
 ## Hi there!
 
-- 💬  Ask me about Java, Netty, and the Portland Java User Group
+- 💬  Ask me about Java, Iceberg, Netty, and the Portland Java User Group
 - 🍷  I am a contributor to the Apache Pinot project
 - ⚡  Fun fact: I live in Portland Oregon
 
