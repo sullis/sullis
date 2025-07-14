@@ -15,6 +15,10 @@
 - [mockitoplus](https://github.com/mockitoplus/mockitoplus)
 - [jms-testkit](https://github.com/sullis/jms-testkit)
 
+### Presentations
+
+- [speakerdeck](https://speakerdeck.com/sullis)
+
 ### Languages and Tools
 
 <a href="https://github.com/sullis">
