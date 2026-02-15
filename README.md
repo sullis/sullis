@@ -1,31 +1,40 @@
-## Hi there!
+## Hi there! 👋
 
-- 💬  Ask me about Java, Iceberg, Netty, and the [Portland Java User Group](https://bsky.app/profile/pjug.bsky.social)
-- 💻  I am a contributor to OpenRewrite
-- 🍷  I am a contributor to the Apache Pinot project
-- ⚡  Fun fact: I live in Portland Oregon
+I'm Sean Sullivan, a software engineer passionate about Java, distributed systems, and open source software.
 
-[BlueSky follow @tinyrobots](https://bsky.app/profile/tinyrobots.bsky.social) &nbsp;
+### 🔭 What I Work On
 
-### Open source projects that I maintain
+- 💻 **OpenRewrite** - Contributing to modernizing Java codebases
+- 🍷 **Apache Pinot** - Contributing to real-time analytics
+- 💬 **Portland Java User Group** - Active member and organizer ([PJUG on BlueSky](https://bsky.app/profile/pjug.bsky.social))
+- 🔧 **Technologies** - Java, Apache Iceberg, Netty, and distributed systems
+- ⚡ **Location** - Portland, Oregon
 
-- [netty-leak-detector-junit-extension](https://github.com/nettyplus/netty-leak-detector-junit-extension)
-- [netty4-transports](https://github.com/nettyplus/netty4-transports)
-- [netty5-transports](https://github.com/nettyplus/netty5-transports)
-- [mockitoplus](https://github.com/mockitoplus/mockitoplus)
-- [jms-testkit](https://github.com/sullis/jms-testkit)
+### 📫 Connect With Me
 
-### Presentations
+- BlueSky: [@tinyrobots](https://bsky.app/profile/tinyrobots.bsky.social)
 
-- [speakerdeck](https://speakerdeck.com/sullis)
+### 🚀 Open Source Projects I Maintain
 
-### Languages and Tools
+#### Netty Extensions
+- **[netty-leak-detector-junit-extension](https://github.com/nettyplus/netty-leak-detector-junit-extension)** - JUnit extension for detecting Netty resource leaks
+- **[netty4-transports](https://github.com/nettyplus/netty4-transports)** - Additional transports for Netty 4
+- **[netty5-transports](https://github.com/nettyplus/netty5-transports)** - Additional transports for Netty 5
 
-<a href="https://github.com/sullis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullis&theme=light&count_private=true" alt="Sean's most used languages" /></a>
+#### Testing Tools
+- **[mockitoplus](https://github.com/mockitoplus/mockitoplus)** - Enhanced Mockito testing utilities
+- **[jms-testkit](https://github.com/sullis/jms-testkit)** - Testing toolkit for JMS applications
 
+### 🎤 Presentations
 
-### My GitHub Stats
+Check out my technical talks and presentations on [SpeakerDeck](https://speakerdeck.com/sullis)
 
-<a href="https://github.com/sullis">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sullis&show_icons=true&theme=light&line_height=27" alt="Sean's GitHub stats"/></a>
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullis&theme=light&count_private=true&layout=compact" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sullis&show_icons=true&theme=light&line_height=27" alt="GitHub stats" />
+</p>
