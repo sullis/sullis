@@ -28,13 +28,3 @@ I'm Sean Sullivan, a software engineer passionate about Java, distributed system
 ### 🎤 Presentations
 
 Check out my technical talks and presentations on [SpeakerDeck](https://speakerdeck.com/sullis)
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullis&theme=light&count_private=true&layout=compact" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sullis&show_icons=true&theme=light&line_height=27" alt="GitHub stats" />
-</p>
