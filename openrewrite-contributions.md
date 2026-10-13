@@ -2,11 +2,11 @@
 
 Merged pull requests authored by [@sullis](https://github.com/sullis) across the [openrewrite](https://github.com/openrewrite) organization.
 
-_Generated 2026-10-12 from the GitHub search API._
+_Generated 2026-10-13 from the GitHub search API._
 
 ## Summary
 
-- **Merged pull requests:** 113
+- **Merged pull requests:** 114
 - **Repositories:** 16
 
 | Repository | Merged PRs |
@@ -15,8 +15,8 @@ _Generated 2026-10-12 from the GitHub search API._
 | [openrewrite/rewrite-jackson](#openrewriterewrite-jackson) | 18 |
 | [openrewrite/rewrite-testing-frameworks](#openrewriterewrite-testing-frameworks) | 16 |
 | [openrewrite/rewrite-migrate-java](#openrewriterewrite-migrate-java) | 13 |
+| [openrewrite/rewrite-apache](#openrewriterewrite-apache) | 9 |
 | [openrewrite/rewrite-maven-plugin](#openrewriterewrite-maven-plugin) | 9 |
-| [openrewrite/rewrite-apache](#openrewriterewrite-apache) | 8 |
 | [openrewrite/rewrite-logging-frameworks](#openrewriterewrite-logging-frameworks) | 8 |
 | [openrewrite/rewrite-netty](#openrewriterewrite-netty) | 4 |
 | [openrewrite/rewrite-github-actions](#openrewriterewrite-github-actions) | 3 |
@@ -120,6 +120,20 @@ _Generated 2026-10-12 from the GitHub search API._
 | 2024-08-30 | [#541](https://github.com/openrewrite/rewrite-migrate-java/pull/541) | Recipes to migrate from Javax, Jakarta and JetBrains nullability annotations to JSpecify |
 | 2023-01-09 | [#163](https://github.com/openrewrite/rewrite-migrate-java/pull/163) | add unit test for recipe UpgradeToJava17 |
 
+## openrewrite/rewrite-apache
+
+| Merged | PR | Title |
+|---|---|---|
+| 2026-10-12 | [#153](https://github.com/openrewrite/rewrite-apache/pull/153) | Upgrade HttpClient 5 migration target to 5.6.x |
+| 2026-08-12 | [#144](https://github.com/openrewrite/rewrite-apache/pull/144) | Add `ApacheBestPractices` and `ApacheCommonsBestPractices` recipes |
+| 2024-11-15 | [#40](https://github.com/openrewrite/rewrite-apache/pull/40) | use Apache HttpClient 5.4.x |
+| 2024-06-10 | [#19](https://github.com/openrewrite/rewrite-apache/pull/19) | use Apache HttpClient 5.x ClassicRequestBuilder |
+| 2024-06-07 | [#18](https://github.com/openrewrite/rewrite-apache/pull/18) | use Apache HttpClient 5.3.x |
+| 2024-03-28 | [#13](https://github.com/openrewrite/rewrite-apache/pull/13) | add recipe for Apache Commons Math 3.x |
+| 2024-03-28 | [#11](https://github.com/openrewrite/rewrite-apache/pull/11) | replace Apache Commons Collections FastArrayList |
+| 2024-03-28 | [#12](https://github.com/openrewrite/rewrite-apache/pull/12) | add recipe for upgrading to Apache Commons Lang 3 |
+| 2024-03-27 | [#10](https://github.com/openrewrite/rewrite-apache/pull/10) | add recipe for Apache Commons Collections |
+
 ## openrewrite/rewrite-maven-plugin
 
 | Merged | PR | Title |
@@ -133,19 +147,6 @@ _Generated 2026-10-12 from the GitHub search API._
 | 2020-08-10 | [#23](https://github.com/openrewrite/rewrite-maven-plugin/pull/23) | ci: mvn --no-transfer-progress |
 | 2020-07-11 | [#3](https://github.com/openrewrite/rewrite-maven-plugin/pull/3) | enable Dependabot v2 |
 | 2020-07-11 | [#2](https://github.com/openrewrite/rewrite-maven-plugin/pull/2) | enable GitHub Actions CI |
-
-## openrewrite/rewrite-apache
-
-| Merged | PR | Title |
-|---|---|---|
-| 2026-08-12 | [#144](https://github.com/openrewrite/rewrite-apache/pull/144) | Add `ApacheBestPractices` and `ApacheCommonsBestPractices` recipes |
-| 2024-11-15 | [#40](https://github.com/openrewrite/rewrite-apache/pull/40) | use Apache HttpClient 5.4.x |
-| 2024-06-10 | [#19](https://github.com/openrewrite/rewrite-apache/pull/19) | use Apache HttpClient 5.x ClassicRequestBuilder |
-| 2024-06-07 | [#18](https://github.com/openrewrite/rewrite-apache/pull/18) | use Apache HttpClient 5.3.x |
-| 2024-03-28 | [#13](https://github.com/openrewrite/rewrite-apache/pull/13) | add recipe for Apache Commons Math 3.x |
-| 2024-03-28 | [#11](https://github.com/openrewrite/rewrite-apache/pull/11) | replace Apache Commons Collections FastArrayList |
-| 2024-03-28 | [#12](https://github.com/openrewrite/rewrite-apache/pull/12) | add recipe for upgrading to Apache Commons Lang 3 |
-| 2024-03-27 | [#10](https://github.com/openrewrite/rewrite-apache/pull/10) | add recipe for Apache Commons Collections |
 
 ## openrewrite/rewrite-logging-frameworks
 
