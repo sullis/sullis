@@ -1,0 +1,38 @@
+name: openrewrite-contributions
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate report
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # GITHUB_TOKEN cannot call `gh api user`, so pass the author explicitly.
+        run: ./openrewrite-contributions.sh sullis openrewrite openrewrite-contributions.md
+
+      - name: Commit changes
+        run: |
+          # Ignore the "_Generated <date>_" line so the date alone doesn't trigger a commit.
+          if git diff --quiet -I '^_Generated ' -- openrewrite-contributions.md; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add openrewrite-contributions.md
+          git commit -m "update openrewrite-contributions.md"
+          git push
