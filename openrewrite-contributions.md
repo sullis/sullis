@@ -2,16 +2,16 @@
 
 Merged pull requests authored by [@sullis](https://github.com/sullis) across the [openrewrite](https://github.com/openrewrite) organization.
 
-_Generated 2026-10-13 from the GitHub search API._
+_Generated 2026-10-16 from the GitHub search API._
 
 ## Summary
 
-- **Merged pull requests:** 114
+- **Merged pull requests:** 116
 - **Repositories:** 16
 
 | Repository | Merged PRs |
 |---|---:|
-| [openrewrite/rewrite](#openrewriterewrite) | 25 |
+| [openrewrite/rewrite](#openrewriterewrite) | 27 |
 | [openrewrite/rewrite-jackson](#openrewriterewrite-jackson) | 18 |
 | [openrewrite/rewrite-testing-frameworks](#openrewriterewrite-testing-frameworks) | 16 |
 | [openrewrite/rewrite-migrate-java](#openrewriterewrite-migrate-java) | 13 |
@@ -32,6 +32,8 @@ _Generated 2026-10-13 from the GitHub search API._
 
 | Merged | PR | Title |
 |---|---|---|
+| 2026-10-16 | [#9155](https://github.com/openrewrite/rewrite/pull/9155) | Add Gradle RemoveDuplicateDependencies recipe |
+| 2026-10-16 | [#9083](https://github.com/openrewrite/rewrite/pull/9083) | Gradle: add RemoveExtraProperty recipe |
 | 2026-09-16 | [#8878](https://github.com/openrewrite/rewrite/pull/8878) | Don't apply UsePropertyAssignmentSyntax to version catalog builders |
 | 2026-09-14 | [#8802](https://github.com/openrewrite/rewrite/pull/8802) | Flag usage of lombok val and var as an error |
 | 2026-08-03 | [#8358](https://github.com/openrewrite/rewrite/pull/8358) | Fix OneDependencyDeclarationPerStatement mangling DependencyHandler.add() calls |
