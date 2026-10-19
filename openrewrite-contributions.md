@@ -2,19 +2,19 @@
 
 Merged pull requests authored by [@sullis](https://github.com/sullis) across the [openrewrite](https://github.com/openrewrite) organization.
 
-_Generated 2026-10-16 from the GitHub search API._
+_Generated 2026-10-19 from the GitHub search API._
 
 ## Summary
 
-- **Merged pull requests:** 116
+- **Merged pull requests:** 118
 - **Repositories:** 16
 
 | Repository | Merged PRs |
 |---|---:|
 | [openrewrite/rewrite](#openrewriterewrite) | 27 |
-| [openrewrite/rewrite-jackson](#openrewriterewrite-jackson) | 18 |
+| [openrewrite/rewrite-jackson](#openrewriterewrite-jackson) | 19 |
 | [openrewrite/rewrite-testing-frameworks](#openrewriterewrite-testing-frameworks) | 16 |
-| [openrewrite/rewrite-migrate-java](#openrewriterewrite-migrate-java) | 13 |
+| [openrewrite/rewrite-migrate-java](#openrewriterewrite-migrate-java) | 14 |
 | [openrewrite/rewrite-apache](#openrewriterewrite-apache) | 9 |
 | [openrewrite/rewrite-maven-plugin](#openrewriterewrite-maven-plugin) | 9 |
 | [openrewrite/rewrite-logging-frameworks](#openrewriterewrite-logging-frameworks) | 8 |
@@ -64,6 +64,7 @@ _Generated 2026-10-16 from the GitHub search API._
 
 | Merged | PR | Title |
 |---|---|---|
+| 2026-10-19 | [#180](https://github.com/openrewrite/rewrite-jackson/pull/180) | Upgrade jackson-annotations to 2.22 |
 | 2026-01-19 | [#78](https://github.com/openrewrite/rewrite-jackson/pull/78) | Upgrade `jackson-annotations` to `2.21 |
 | 2025-11-17 | [#48](https://github.com/openrewrite/rewrite-jackson/pull/48) | cleanup UpgradeJackson_2_3Test |
 | 2025-11-13 | [#47](https://github.com/openrewrite/rewrite-jackson/pull/47) | Use wildcards to convert all artifacts under dataformat and module |
@@ -108,6 +109,7 @@ _Generated 2026-10-16 from the GitHub search API._
 
 | Merged | PR | Title |
 |---|---|---|
+| 2026-10-19 | [#1285](https://github.com/openrewrite/rewrite-migrate-java/pull/1285) | JSpecify migrations remove nullability annotations from void methods |
 | 2026-09-25 | [#1245](https://github.com/openrewrite/rewrite-migrate-java/pull/1245) | Add `MigrateFromSpotBugsAnnotations` recipe |
 | 2026-09-22 | [#1244](https://github.com/openrewrite/rewrite-migrate-java/pull/1244) | Add a `FlagUsage` recipe to stop Lombok's `val`/`var` from coming back |
 | 2026-09-21 | [#1242](https://github.com/openrewrite/rewrite-migrate-java/pull/1242) | Create root `lombok.config` when a project has none |
