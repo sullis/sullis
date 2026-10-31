@@ -4,7 +4,7 @@ I'm Sean Sullivan, a software engineer passionate about Java, distributed system
 
 ### 🔭 What I Work On
 
-- 💻 **OpenRewrite** - Contributing to modernizing Java codebases
+- 💻 **OpenRewrite** - Contributing to modernizing Java codebases ([my contributions](https://github.com/sullis/sullis/blob/main/openrewrite-contributions.md))
 - 🍷 **Apache Pinot** - Contributing to real-time analytics
 - 💬 **Portland Java User Group** - Active member and organizer ([PJUG on BlueSky](https://bsky.app/profile/pjug.bsky.social))
 - 🔧 **Technologies** - Java, Apache Iceberg, Netty, and distributed systems
@@ -24,6 +24,10 @@ I'm Sean Sullivan, a software engineer passionate about Java, distributed system
 #### Testing Tools
 - **[mockitoplus](https://github.com/mockitoplus/mockitoplus)** - Enhanced Mockito testing utilities
 - **[jms-testkit](https://github.com/sullis/jms-testkit)** - Testing toolkit for JMS applications
+
+### 🎃 Events
+
+- [Hacktoberfest Hack Day Portland, 2026-10-31](https://github.com/sullis/sullis/blob/main/hacktoberfest-2026-10-31.md) - OpenRewrite contributions
 
 ### 🎤 Presentations
 
