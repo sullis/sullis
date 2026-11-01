@@ -1,5 +1,7 @@
 # Hacktoberfest 2026-10-31
 
+Portland Oregon USA
+
 ![Hacktoberfest 2026-10-31](hacktoberfest-2026-10-31.jpeg)
 
 Event: [Hacktoberfest Hack Day Portland x Portland AI Devs](https://events.mlh.com/events/15552-hacktoberfest-hack-day-portland-x-portland-ai-devs)
