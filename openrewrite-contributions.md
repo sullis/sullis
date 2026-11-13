@@ -2,18 +2,18 @@
 
 Merged pull requests authored by [@sullis](https://github.com/sullis) across the [openrewrite](https://github.com/openrewrite) organization.
 
-_Generated 2026-10-19 from the GitHub search API._
+_Generated 2026-11-13 from the GitHub search API._
 
 ## Summary
 
-- **Merged pull requests:** 118
+- **Merged pull requests:** 120
 - **Repositories:** 16
 
 | Repository | Merged PRs |
 |---|---:|
 | [openrewrite/rewrite](#openrewriterewrite) | 27 |
 | [openrewrite/rewrite-jackson](#openrewriterewrite-jackson) | 19 |
-| [openrewrite/rewrite-testing-frameworks](#openrewriterewrite-testing-frameworks) | 16 |
+| [openrewrite/rewrite-testing-frameworks](#openrewriterewrite-testing-frameworks) | 18 |
 | [openrewrite/rewrite-migrate-java](#openrewriterewrite-migrate-java) | 14 |
 | [openrewrite/rewrite-apache](#openrewriterewrite-apache) | 9 |
 | [openrewrite/rewrite-maven-plugin](#openrewriterewrite-maven-plugin) | 9 |
@@ -88,6 +88,8 @@ _Generated 2026-10-19 from the GitHub search API._
 
 | Merged | PR | Title |
 |---|---|---|
+| 2026-11-13 | [#1258](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1258) | Cover more WireMock 4 breaking changes in the 3 to 4 migration |
+| 2026-11-13 | [#1260](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1260) | Upgrade JUnit Pioneer to 3.x as part of the JUnit 6 migration |
 | 2026-10-12 | [#1184](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1184) | WireMock 4 migration: move Jetty EE10 to EE11 and bump to 4.0.0-beta.40 |
 | 2026-09-29 | [#1122](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1122) | Add WireMock 3 to 4 migration recipe |
 | 2026-05-26 | [#1006](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1006) | Add RemoveJupiterMigrationSupport recipe |
