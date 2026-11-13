@@ -6,8 +6,8 @@ _Generated 2026-11-13 from the GitHub search API._
 
 ## Summary
 
-- **Merged pull requests:** 120
-- **Repositories:** 16
+- **Merged pull requests:** 121
+- **Repositories:** 17
 
 | Repository | Merged PRs |
 |---|---:|
@@ -25,6 +25,7 @@ _Generated 2026-11-13 from the GitHub search API._
 | [openrewrite/rewrite-gradle-plugin](#openrewriterewrite-gradle-plugin) | 1 |
 | [openrewrite/rewrite-java-8](#openrewriterewrite-java-8) | 1 |
 | [openrewrite/rewrite-jenkins](#openrewriterewrite-jenkins) | 1 |
+| [openrewrite/rewrite-pmd](#openrewriterewrite-pmd) | 1 |
 | [openrewrite/rewrite-recipe-bom](#openrewriterewrite-recipe-bom) | 1 |
 | [openrewrite/rewrite-static-analysis](#openrewriterewrite-static-analysis) | 1 |
 
@@ -215,6 +216,12 @@ _Generated 2026-11-13 from the GitHub search API._
 | Merged | PR | Title |
 |---|---|---|
 | 2023-06-05 | [#3](https://github.com/openrewrite/rewrite-jenkins/pull/3) | cleanup GitHub Actions |
+
+## openrewrite/rewrite-pmd
+
+| Merged | PR | Title |
+|---|---|---|
+| 2026-11-13 | [#11](https://github.com/openrewrite/rewrite-pmd/pull/11) | Rename Vector rules deprecated in PMD 7.29.0 to ReplaceJavaUtilVector |
 
 ## openrewrite/rewrite-recipe-bom
 
