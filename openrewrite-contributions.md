@@ -2,18 +2,18 @@
 
 Merged pull requests authored by [@sullis](https://github.com/sullis) across the [openrewrite](https://github.com/openrewrite) organization.
 
-_Generated 2026-11-18 from the GitHub search API._
+_Generated 2026-11-26 from the GitHub search API._
 
 ## Summary
 
-- **Merged pull requests:** 122
+- **Merged pull requests:** 124
 - **Repositories:** 17
 
 | Repository | Merged PRs |
 |---|---:|
 | [openrewrite/rewrite](#openrewriterewrite) | 27 |
+| [openrewrite/rewrite-testing-frameworks](#openrewriterewrite-testing-frameworks) | 21 |
 | [openrewrite/rewrite-jackson](#openrewriterewrite-jackson) | 19 |
-| [openrewrite/rewrite-testing-frameworks](#openrewriterewrite-testing-frameworks) | 19 |
 | [openrewrite/rewrite-migrate-java](#openrewriterewrite-migrate-java) | 14 |
 | [openrewrite/rewrite-apache](#openrewriterewrite-apache) | 9 |
 | [openrewrite/rewrite-maven-plugin](#openrewriterewrite-maven-plugin) | 9 |
@@ -61,6 +61,32 @@ _Generated 2026-11-18 from the GitHub search API._
 | 2020-08-22 | [#24](https://github.com/openrewrite/rewrite/pull/24) | kotlin 1.4.0 |
 | 2020-07-27 | [#4](https://github.com/openrewrite/rewrite/pull/4) | add Gradle wrapper validation |
 
+## openrewrite/rewrite-testing-frameworks
+
+| Merged | PR | Title |
+|---|---|---|
+| 2026-11-26 | [#1354](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1354) | Add AwaitilityBestPractices recipe |
+| 2026-11-26 | [#1353](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1353) | Update WireMock 4 recipe to 4.0.0-beta.44 |
+| 2026-11-17 | [#1259](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1259) | Add recipe to upgrade Gatling 3.x to 3.16 |
+| 2026-11-13 | [#1258](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1258) | Cover more WireMock 4 breaking changes in the 3 to 4 migration |
+| 2026-11-13 | [#1260](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1260) | Upgrade JUnit Pioneer to 3.x as part of the JUnit 6 migration |
+| 2026-10-12 | [#1184](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1184) | WireMock 4 migration: move Jetty EE10 to EE11 and bump to 4.0.0-beta.40 |
+| 2026-09-29 | [#1122](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1122) | Add WireMock 3 to 4 migration recipe |
+| 2026-05-26 | [#1006](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1006) | Add RemoveJupiterMigrationSupport recipe |
+| 2026-05-08 | [#993](https://github.com/openrewrite/rewrite-testing-frameworks/pull/993) | Cleanup junit vintage engine |
+| 2026-05-08 | [#994](https://github.com/openrewrite/rewrite-testing-frameworks/pull/994) | Add unit test for JUnit6BestPractices |
+| 2026-04-28 | [#977](https://github.com/openrewrite/rewrite-testing-frameworks/pull/977) | Cleanup Mockito AutoCloseable fields |
+| 2025-10-17 | [#830](https://github.com/openrewrite/rewrite-testing-frameworks/pull/830) | Change dependencies and types for testcontainers v2 |
+| 2025-09-30 | [#821](https://github.com/openrewrite/rewrite-testing-frameworks/pull/821) | remove dependency: google truth |
+| 2025-09-26 | [#822](https://github.com/openrewrite/rewrite-testing-frameworks/pull/822) | truth migration adds assertj-core |
+| 2025-08-30 | [#801](https://github.com/openrewrite/rewrite-testing-frameworks/pull/801) | verify that junit vintage engine is removed |
+| 2025-06-18 | [#750](https://github.com/openrewrite/rewrite-testing-frameworks/pull/750) | testcontainers 1.21.x |
+| 2024-12-24 | [#657](https://github.com/openrewrite/rewrite-testing-frameworks/pull/657) | improve assertions in Mockito1to5MigrationTest |
+| 2024-12-23 | [#656](https://github.com/openrewrite/rewrite-testing-frameworks/pull/656) | Add `Mockito1to5MigrationTest` to verify dependencies are upgraded |
+| 2024-12-19 | [#651](https://github.com/openrewrite/rewrite-testing-frameworks/pull/651) | add Mockito1to4MigrationTest |
+| 2024-11-17 | [#641](https://github.com/openrewrite/rewrite-testing-frameworks/pull/641) | don't exclude junit4 for testcontainers jupiter |
+| 2022-12-31 | [#294](https://github.com/openrewrite/rewrite-testing-frameworks/pull/294) | fix abstract class logic in TestsShouldNotBePublic |
+
 ## openrewrite/rewrite-jackson
 
 | Merged | PR | Title |
@@ -84,30 +110,6 @@ _Generated 2026-11-18 from the GitHub search API._
 | 2025-05-13 | [#5](https://github.com/openrewrite/rewrite-jackson/pull/5) | fix: jackson annotations package |
 | 2025-05-13 | [#3](https://github.com/openrewrite/rewrite-jackson/pull/3) | Add recipe for Jackson 3 |
 | 2025-05-13 | [#2](https://github.com/openrewrite/rewrite-jackson/pull/2) | Fix build.gradle.kts |
-
-## openrewrite/rewrite-testing-frameworks
-
-| Merged | PR | Title |
-|---|---|---|
-| 2026-11-17 | [#1259](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1259) | Add recipe to upgrade Gatling 3.x to 3.16 |
-| 2026-11-13 | [#1258](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1258) | Cover more WireMock 4 breaking changes in the 3 to 4 migration |
-| 2026-11-13 | [#1260](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1260) | Upgrade JUnit Pioneer to 3.x as part of the JUnit 6 migration |
-| 2026-10-12 | [#1184](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1184) | WireMock 4 migration: move Jetty EE10 to EE11 and bump to 4.0.0-beta.40 |
-| 2026-09-29 | [#1122](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1122) | Add WireMock 3 to 4 migration recipe |
-| 2026-05-26 | [#1006](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1006) | Add RemoveJupiterMigrationSupport recipe |
-| 2026-05-08 | [#993](https://github.com/openrewrite/rewrite-testing-frameworks/pull/993) | Cleanup junit vintage engine |
-| 2026-05-08 | [#994](https://github.com/openrewrite/rewrite-testing-frameworks/pull/994) | Add unit test for JUnit6BestPractices |
-| 2026-04-28 | [#977](https://github.com/openrewrite/rewrite-testing-frameworks/pull/977) | Cleanup Mockito AutoCloseable fields |
-| 2025-10-17 | [#830](https://github.com/openrewrite/rewrite-testing-frameworks/pull/830) | Change dependencies and types for testcontainers v2 |
-| 2025-09-30 | [#821](https://github.com/openrewrite/rewrite-testing-frameworks/pull/821) | remove dependency: google truth |
-| 2025-09-26 | [#822](https://github.com/openrewrite/rewrite-testing-frameworks/pull/822) | truth migration adds assertj-core |
-| 2025-08-30 | [#801](https://github.com/openrewrite/rewrite-testing-frameworks/pull/801) | verify that junit vintage engine is removed |
-| 2025-06-18 | [#750](https://github.com/openrewrite/rewrite-testing-frameworks/pull/750) | testcontainers 1.21.x |
-| 2024-12-24 | [#657](https://github.com/openrewrite/rewrite-testing-frameworks/pull/657) | improve assertions in Mockito1to5MigrationTest |
-| 2024-12-23 | [#656](https://github.com/openrewrite/rewrite-testing-frameworks/pull/656) | Add `Mockito1to5MigrationTest` to verify dependencies are upgraded |
-| 2024-12-19 | [#651](https://github.com/openrewrite/rewrite-testing-frameworks/pull/651) | add Mockito1to4MigrationTest |
-| 2024-11-17 | [#641](https://github.com/openrewrite/rewrite-testing-frameworks/pull/641) | don't exclude junit4 for testcontainers jupiter |
-| 2022-12-31 | [#294](https://github.com/openrewrite/rewrite-testing-frameworks/pull/294) | fix abstract class logic in TestsShouldNotBePublic |
 
 ## openrewrite/rewrite-migrate-java
 
