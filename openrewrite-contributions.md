@@ -2,11 +2,11 @@
 
 Merged pull requests authored by [@sullis](https://github.com/sullis) across the [openrewrite](https://github.com/openrewrite) organization.
 
-_Generated 2026-11-26 from the GitHub search API._
+_Generated 2026-11-27 from the GitHub search API._
 
 ## Summary
 
-- **Merged pull requests:** 124
+- **Merged pull requests:** 127
 - **Repositories:** 17
 
 | Repository | Merged PRs |
@@ -15,13 +15,13 @@ _Generated 2026-11-26 from the GitHub search API._
 | [openrewrite/rewrite-testing-frameworks](#openrewriterewrite-testing-frameworks) | 21 |
 | [openrewrite/rewrite-jackson](#openrewriterewrite-jackson) | 19 |
 | [openrewrite/rewrite-migrate-java](#openrewriterewrite-migrate-java) | 14 |
-| [openrewrite/rewrite-apache](#openrewriterewrite-apache) | 9 |
+| [openrewrite/rewrite-apache](#openrewriterewrite-apache) | 10 |
 | [openrewrite/rewrite-maven-plugin](#openrewriterewrite-maven-plugin) | 9 |
 | [openrewrite/rewrite-logging-frameworks](#openrewriterewrite-logging-frameworks) | 8 |
-| [openrewrite/rewrite-netty](#openrewriterewrite-netty) | 4 |
+| [openrewrite/rewrite-netty](#openrewriterewrite-netty) | 5 |
 | [openrewrite/rewrite-github-actions](#openrewriterewrite-github-actions) | 3 |
+| [openrewrite/rewrite-spring](#openrewriterewrite-spring) | 3 |
 | [openrewrite/rewrite-docs](#openrewriterewrite-docs) | 2 |
-| [openrewrite/rewrite-spring](#openrewriterewrite-spring) | 2 |
 | [openrewrite/rewrite-gradle-plugin](#openrewriterewrite-gradle-plugin) | 1 |
 | [openrewrite/rewrite-java-8](#openrewriterewrite-java-8) | 1 |
 | [openrewrite/rewrite-jenkins](#openrewriterewrite-jenkins) | 1 |
@@ -134,6 +134,7 @@ _Generated 2026-11-26 from the GitHub search API._
 
 | Merged | PR | Title |
 |---|---|---|
+| 2026-11-27 | [#204](https://github.com/openrewrite/rewrite-apache/pull/204) | Improve test coverage and assertions for UpgradeApacheHttpClient_5 |
 | 2026-10-12 | [#153](https://github.com/openrewrite/rewrite-apache/pull/153) | Upgrade HttpClient 5 migration target to 5.6.x |
 | 2026-08-12 | [#144](https://github.com/openrewrite/rewrite-apache/pull/144) | Add `ApacheBestPractices` and `ApacheCommonsBestPractices` recipes |
 | 2024-11-15 | [#40](https://github.com/openrewrite/rewrite-apache/pull/40) | use Apache HttpClient 5.4.x |
@@ -175,6 +176,7 @@ _Generated 2026-11-26 from the GitHub search API._
 
 | Merged | PR | Title |
 |---|---|---|
+| 2026-11-27 | [#29](https://github.com/openrewrite/rewrite-netty/pull/29) | Support constructor arguments and KQueue in EventLoopGroup migration |
 | 2025-09-16 | [#9](https://github.com/openrewrite/rewrite-netty/pull/9) | add category tags |
 | 2025-09-16 | [#8](https://github.com/openrewrite/rewrite-netty/pull/8) | validate io_uring artifacts |
 | 2025-06-19 | [#3](https://github.com/openrewrite/rewrite-netty/pull/3) | update README |
@@ -188,19 +190,20 @@ _Generated 2026-11-26 from the GitHub search API._
 | 2024-04-13 | [#99](https://github.com/openrewrite/rewrite-github-actions/pull/99) | support setup-java v4 |
 | 2022-03-29 | [#16](https://github.com/openrewrite/rewrite-github-actions/pull/16) | support setup-java v2 and v3 |
 
+## openrewrite/rewrite-spring
+
+| Merged | PR | Title |
+|---|---|---|
+| 2026-11-27 | [#1336](https://github.com/openrewrite/rewrite-spring/pull/1336) | Add Spring Boot versions to recipes table in README |
+| 2024-11-26 | [#641](https://github.com/openrewrite/rewrite-spring/pull/641) | fix test dontEnableVirtualThreadsIfDisabled |
+| 2021-05-29 | [#73](https://github.com/openrewrite/rewrite-spring/pull/73) | gradle 7.0.2 |
+
 ## openrewrite/rewrite-docs
 
 | Merged | PR | Title |
 |---|---|---|
 | 2024-10-30 | [#314](https://github.com/openrewrite/rewrite-docs/pull/314) | use latest.release |
 | 2022-10-11 | [#93](https://github.com/openrewrite/rewrite-docs/pull/93) | update Gradle plugin examples |
-
-## openrewrite/rewrite-spring
-
-| Merged | PR | Title |
-|---|---|---|
-| 2024-11-26 | [#641](https://github.com/openrewrite/rewrite-spring/pull/641) | fix test dontEnableVirtualThreadsIfDisabled |
-| 2021-05-29 | [#73](https://github.com/openrewrite/rewrite-spring/pull/73) | gradle 7.0.2 |
 
 ## openrewrite/rewrite-gradle-plugin
 
